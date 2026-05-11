@@ -77,12 +77,8 @@ export default function LoginPage() {
           </p>
         </div>
 
-        {/* Demo credentials */}
-        <div className="mt-4 p-4 card text-sm text-[#8888a8] space-y-1">
-          <p className="text-[#e8e8f0] font-medium mb-2">Demo accounts</p>
-          <p>Admin: <span className="font-mono text-brand-400">admin@demo.com</span> / <span className="font-mono text-brand-400">admin123</span></p>
-          <p>Member: <span className="font-mono text-brand-400">member@demo.com</span> / <span className="font-mono text-brand-400">member123</span></p>
-        </div>
+        
+        
       </div>
     </div>
   );
